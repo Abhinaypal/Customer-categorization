@@ -1,0 +1,4 @@
+name: customer-categorization
+version: 0.1.0
+description: Streamlit app and training pipeline for customer categorization and purchase prediction
+python: 3.8

@@ -1,0 +1,44 @@
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code and IDEs
+.vscode/
+.idea/
+
+# Logs and OS files
+*.log
+*.tmp
+.DS_Store
+
+# Streamlit runtime logs
+streamlit_*.err
+
+# Data and models (ignore large artifacts by default)
+data/
+models/
+
+# Notebook/checkpoint directories created by some tools
+notebooks/**/.ipynb_checkpoints/.venv/
+.env
+__pycache__/
+*.pyc
+models/
+.notebook_checkpoints
+.ipynb_checkpoints/
+.DS_Store
+*.pkl

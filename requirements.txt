@@ -1,0 +1,16 @@
+# Core dependencies (consider pinning exact versions for reproducibility)
+pandas>=1.0
+numpy>=1.20
+scikit-learn>=1.0
+streamlit>=1.0
+joblib
+xgboost
+catboost
+matplotlib
+seaborn
+
+# Developer / notebook tools
+notebook
+jupyterlab
+ipykernel
+tqdm

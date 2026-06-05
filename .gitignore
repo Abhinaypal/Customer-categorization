@@ -30,6 +30,7 @@ streamlit_*.err
 
 # Data and models (ignore large artifacts by default)
 data/
+!notebooks/data/clustered_data.csv
 models/
 
 # Notebook/checkpoint directories created by some tools
